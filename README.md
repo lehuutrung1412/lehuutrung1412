@@ -14,5 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a><img align="center" src="https://github-readme-stats.vercel.app/api?username=lehuutrung1412&hide=issues,prs&count_private=true&show_icons=true&theme=dracula" /></a>
-<a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lehuutrung1412&layout=compact" /></a>
+Hi, I'm Le Huu Trung. I'm currently a student at University of Information Technology - VNUHCM. My major is Computer Science, and I'm trying my best to do anything I loved.
+
+<!--<a><img align="center" src="https://github-readme-stats.vercel.app/api?username=lehuutrung1412&hide=issues,prs&count_private=true&show_icons=true&theme=dracula" /></a>
+<a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lehuutrung1412&layout=compact" /></a>-->
