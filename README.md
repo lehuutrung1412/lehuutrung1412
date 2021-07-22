@@ -35,7 +35,7 @@
 </p>
 
 <h3 align="left">Github Statistics:</h3>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=lehuutrung1412&hide=issues,prs&count_private=true&show_icons=true&theme=vue" alt="Lê Hữu Trung's Github Stats" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=lehuutrung1412&hide=issues,contribs&count_private=true&show_icons=true&theme=vue" alt="Lê Hữu Trung's Github Stats" /> </p>
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=lehuutrung1412&theme=vue" alt="GitHub Streak" /> </p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lehuutrung1412&layout=compact&theme=vue&langs_count=10&card_width=445" alt="Language Stats" /> </p>
 
