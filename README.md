@@ -3,6 +3,8 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lehuutrung1412&label=Profile%20views&color=42b883&style=flat" alt="lehuutrung1412" /> </p>
 
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
+
 - 🏫  I'm a student at University of Information Technology - VNUHCM
 
 - 📚  My major is Computer Science
@@ -35,9 +37,9 @@
 </p>
 
 <h3 align="left">Github Statistics:</h3>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=lehuutrung1412&hide=issues,contribs&count_private=true&show_icons=true&theme=vue" alt="Lê Hữu Trung's Github Stats" /> </p>
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=lehuutrung1412&theme=vue" alt="GitHub Streak" /> </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lehuutrung1412&layout=compact&theme=vue&langs_count=10&card_width=445" alt="Language Stats" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=lehuutrung1412&hide=issues,contribs&count_private=true&show_icons=true&theme=noctis_minimus&hide_border=true" alt="Lê Hữu Trung's Github Stats" /> </p>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=lehuutrung1412&theme=noctis-minimus&hide_border=true" alt="GitHub Streak" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lehuutrung1412&layout=compact&theme=noctis_minimus&langs_count=10&card_width=445&hide=jupyter%20notebook&hide_border=true" alt="Language Stats" /> </p>
 
 <h3 align="left"> Support: <a href="https://blog.lehuutrung.dev/p/donate.html"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="168" alt="Buy Trung a coffee" /></a>
 </h3>
