@@ -39,7 +39,7 @@
 <h3 align="left">Github Statistics:</h3>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=lehuutrung1412&hide=issues,contribs&count_private=true&show_icons=true&theme=noctis_minimus&hide_border=true" alt="Lê Hữu Trung's Github Stats" /> </p>
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=lehuutrung1412&theme=noctis-minimus&hide_border=true" alt="GitHub Streak" /> </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lehuutrung1412&layout=compact&theme=noctis_minimus&langs_count=10&card_width=445&hide=jupyter%20notebook&hide_border=true" alt="Language Stats" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lehuutrung1412&layout=compact&theme=noctis_minimus&langs_count=10&card_width=445&hide_border=true&exclude_repo=Person-Detection,Machine_Learning" alt="Language Stats" /> </p>
 
 <h3 align="left"> Support: <a href="https://blog.lehuutrung.dev/p/donate.html"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="168" alt="Buy Trung a coffee" /></a>
 </h3>
