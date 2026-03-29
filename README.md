@@ -12,7 +12,7 @@ Stay curious.
 <!-- BLOG-POST-LIST:START -->
 - [Monitoring the monitor and my simple setup for Homelab uptime](https://blog.lehuutrung.dev/blog/monitoring-uptime-kuma-healthchecks/)
 - [My journey to automated homelab deployments on Proxmox](https://blog.lehuutrung.dev/blog/ci-cd-homelab-proxmox/)
-- [Fixing Vietnamese input issues on macOS](https://blog.lehuutrung.dev/blog/khac-phuc-loi-khong-go-duoc-tieng-viet-tren-macos/)
+- [The mystery of the frozen Vietnamese input on macOS](https://blog.lehuutrung.dev/blog/khac-phuc-loi-khong-go-duoc-tieng-viet-tren-macos/)
 <!-- BLOG-POST-LIST:END -->
 
 #### 💬 Connect
