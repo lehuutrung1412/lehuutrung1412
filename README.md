@@ -11,8 +11,8 @@ Stay curious.
 #### ✍️ Writing
 <!-- BLOG-POST-LIST:START -->
 - [My journey to automated homelab deployments on Proxmox](https://blog.lehuutrung.dev/blog/ci-cd-homelab-proxmox/)
-- [Fixing Vietnamese Input Issues on macOS](https://blog.lehuutrung.dev/blog/khac-phuc-loi-khong-go-duoc-tieng-viet-tren-macos/)
-- [Why Do VPNs Boost Internet Speed During Undersea Cable Breaks?](https://blog.lehuutrung.dev/blog/tai-sao-vpn-lai-giup-tang-toc-do-mang-khi-dut-cap/)
+- [Fixing Vietnamese input issues on macOS](https://blog.lehuutrung.dev/blog/khac-phuc-loi-khong-go-duoc-tieng-viet-tren-macos/)
+- [Why do VPNs boost Internet speed during undersea cable breaks?](https://blog.lehuutrung.dev/blog/tai-sao-vpn-lai-giup-tang-toc-do-mang-khi-dut-cap/)
 <!-- BLOG-POST-LIST:END -->
 
 #### 💬 Connect
