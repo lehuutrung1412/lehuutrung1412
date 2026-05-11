@@ -17,10 +17,13 @@ Stay curious.
 
 #### 💬 Connect
 
-<a href="https://linkedin.com/in/lehuutrung1412" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/linkedin.svg" alt="lehuutrung1412" height="20" width="30" /></a>
-<a href="https://x.com/lehuutrung1412" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/x.svg" alt="lehuutrung1412" height="20" width="30" /></a>
-<a href="https://www.leetcode.com/lehuutrung1412" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/leetcode.svg" alt="lehuutrung1412" height="20" width="30" /></a>
-<a href="https://blog.lehuutrung.dev/rss.xml" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/rss.svg" alt="https://blog.lehuutrung.dev/rss.xml" height="20" width="30" /></a>
+<p>
+  <a href="https://blog.lehuutrung.dev">blog</a> ·
+  <a href="https://www.leetcode.com/lehuutrung1412">leetcode</a> ·
+  <a href="https://x.com/lehuutrung1412">x</a> ·
+  <a href="https://linkedin.com/in/lehuutrung1412">linkedin</a> ·
+  <a href="https://blog.lehuutrung.dev/rss.xml">rss</a>
+</p>
 
 You can also reach **me at lehuutrung dot dev** 📫
 
